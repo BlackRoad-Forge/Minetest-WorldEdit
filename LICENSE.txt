@@ -6,7 +6,8 @@ Copyright © 2017 sfan5 | CC BY-SA 4.0
 <https://creativecommons.org/licenses/by-sa/4.0/>
 
 worldedit_wand.png:
-Copyright © 2016 pickardjoe
+Copyright © 2026 The4codeblocks | CC BY 4.0
+<https://creativecommons.org/licenses/by/4.0/>
 
 worldedit_pos1.png, worldedit_pos2.png, worldedit_cube.png:
 Copyright © 2012-2013 Anthony Zhang (Uberi/Temperest)
